@@ -1,0 +1,14 @@
+Welcome to the TransaksiPinjam_KembaliBayar System
+
+Transaksi Details:
+KDTransaksi: 1234
+IDIdent: 7890
+IDPustakawan: 987
+ISBN_ISSN: 123456789
+KCD: 0
+Status Rusak: TidakRusak
+Total Rusak: 0
+Jumlah Denda: 0
+Harga Total: 12000
+Tanggal Pinjam: 21042020
+Tanggal Kembali: 24042020
